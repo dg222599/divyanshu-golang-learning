@@ -1,4 +1,4 @@
-package main
+package practice
 
 import (
 	"fmt"
@@ -37,7 +37,7 @@ func namedReturn(person1,person2 string) (allPeople string)  {
 	   return 
 }
 
-func main(){
+func Basics(){
 
 	 //normal print statements
 	 fmt.Println(math.Pi*12.3)
