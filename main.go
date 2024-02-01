@@ -1,9 +1,7 @@
 package main
 
 import (
-	"fmt"
-
-	"github.com/divyanshu-golang-learning/practice"
+	"github.com/divyanshu-golang-learning/exercises"
 )
 
 
@@ -18,7 +16,11 @@ func main () {
 
 	//  practice.Control()
 
-	fmt.Println("Ouput of Day-3 Extra user types")
+	// fmt.Println("Ouput of Day-3 Extra user types")
 
-	practice.ExtraTypes()
+	// practice.ExtraTypes()
+
+	// practice.Interfaces()
+   
+	exercises.Basic()
 }
